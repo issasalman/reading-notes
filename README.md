@@ -19,3 +19,14 @@
  ##### 4.  Criticism: when u show your work to your boss or your teacher he might says bad words or gives dislike ,dont take it personaly just keep moving forward and show him you can do better.
  
  ##### 5. Success of others: always try to get more friends like ur mindest and smart peaple to improve yourself from them fast as possible.
+ 
+ ## Include 3 reminders to yourself of how to keep yourself in a growth mindset
+ 
+ 1.  be patient
+ 2.  hard work
+ 3.  never give up 
+
+## different features of Markdown to structure your page
+1.  Heading with ##
+2.  list with numbers or symboles like this 1.2.3. ***
+3.  displaying a picture like this !.[]()
