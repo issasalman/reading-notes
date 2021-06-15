@@ -6,6 +6,6 @@
 | File Name | Link | 
 | --------------- | --------------- |
 | read01 | [read01](https://issasalman.github.io/reading-notes/read01) | 
-| read02 | [read02](https://issasalman.github.io/reading-notes/read02) | 
-
+| read02 | [read02](https://issasalman.github.io/reading-notes/read02)] | 
+| Growth |[Growth] (https://issasalman.github.io/reading-notes/Growth) | 
  
