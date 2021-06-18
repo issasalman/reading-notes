@@ -10,12 +10,13 @@ and there is some codes
 4. Italic	*Text*	
 5. Strike	~~Text~~
 
- ## Dictionary / Flash Cards
+##  Dictionary Flash Cards
+
  ![cards](https://thecustomizewindows.com/wp-content/uploads/2013/10/Markdown-Syntax-and-Editors.jpg)
  
  
  
- ##Notes in outline form
+## Notes in outline for     
  #### always use markdown for lightwight files and to show a prief of your work 
 
 ## For examples of  Markdown files and the corresponding documents that they create, please view the R Markdown files that created all of these HTML-type R tutorials. Reading through 

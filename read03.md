@@ -38,16 +38,16 @@
 ## **Some Semantic elements**
 ### These are some of the roughly 100 semantic elements available:
 
-* <article>
-* <aside>
-* <details>
-* <figcaption>
-* <figure>
-* <footer>
-* <header>
-* <main>
-* <mark>
-* <nav>
-* <section>
-* <summary>
-* <time>
+* article
+* aside>
+* details>
+* figcaption>
+* figure>
+* footer>
+* header>
+* main>
+* mark>
+* nav>
+* section>
+* summary>
+* time
