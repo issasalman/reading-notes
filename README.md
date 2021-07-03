@@ -10,7 +10,8 @@
 | read03 | [read03](https://issasalman.github.io/reading-notes/read03) |
 | read04 | [read04](https://issasalman.github.io/reading-notes/read04) | 
 | read05 | [read05](https://issasalman.github.io/reading-notes/read05) | 
-| read06 | [read06](https://issasalman.github.io/reading-notes/read06) | 
+| read06 | [read06](https://issasalman.github.io/reading-notes/read06) |
+| read07 | [read07](https://issasalman.github.io/reading-notes/read07) | 
 | Growth |[Growth](https://issasalman.github.io/reading-notes/Growth) |
                                             
 
