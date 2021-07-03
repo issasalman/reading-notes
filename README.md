@@ -33,7 +33,7 @@
 | Read09 | [Forms and Events](https://issasalman.github.io/reading-notes/201/read09) | 
 | Read10 | [JS Debugging	](https://issasalman.github.io/reading-notes/201/read10) |
 | Read11 | [Assorted Topics	](https://issasalman.github.io/reading-notes/201/read11) | 
-| Read12 |[Docs for the HTML <canvas> Element & Chart.js](https://issasalman.github.io/reading-notes/201/read12) |
+| Read12 | [Docs for the HTML  Element & Chart.js](https://issasalman.github.io/reading-notes/201/read12) |
 | Read13 | [Local Storage	](https://issasalman.github.io/reading-notes/201/read13) |
 | Read14a | [CSS Transforms, Transitions, and Animations	](https://issasalman.github.io/reading-notes/201/read14a) | 
 | Read14b|[What Google Learned About Teams](https://issasalman.github.io/reading-notes/201/read14b) |
