@@ -14,10 +14,6 @@
 | Read06 | [Design web pages with CSS	](https://issasalman.github.io/reading-notes/102/read06) |
 | Read07 | [Programming with JavaScript	](https://issasalman.github.io/reading-notes/102/read07) | 
 | Growth |[Growth](https://issasalman.github.io/reading-notes/201/Growth) |
-<<<<<<< HEAD
-=======
-
->>>>>>> 5b4f3899b4e002096df6efcfe9517cd72e5be7af
 
 
 
