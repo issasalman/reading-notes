@@ -1,5 +1,5 @@
 # Who i am
-### Hey, Im Issa Salman 24 years old graduated from Hashemite university as Mechatronics engineer and I'm very happy to be here.
+### Hello, I'm Issa Salman mechatronics engineer I have been working as a site engineer in the solar energy field from there I decided to improve my coding skills since I believe that future technology is all about being professional coder to walk side by side with it
 
 # Table of content 
 ## Code 102 Reading Notes
