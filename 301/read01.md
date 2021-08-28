@@ -37,7 +37,7 @@ Props are mainly used for passing data from the parent component to child compon
 
 
 ### 3) What is the flow of props?
-Parent sends props to Child
-Child sends props to Grandchild
-Grandchild sends props to GreatGrandChild
+* Parent sends props to Child
+* Child sends props to Grandchild
+* Grandchild sends props to GreatGrandChild
 ![flow props](https://miro.medium.com/max/875/1*bsS8ETUQqgBpAoT2D6tjmw.png)
