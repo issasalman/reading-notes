@@ -1,8 +1,11 @@
 # Who i am
 ### Hello, I'm Issa Salman mechatronics engineer I have been working as a site engineer in the solar energy field from there I decided to improve my coding skills since I believe that future technology is all about being professional coder to walk side by side with it
 
-# Table of content 
-## Code 102 Reading Notes
+
+
+# Reading Notes
+## Table of contents 
+## Code 102 - Intro to Software Development
 
 | File Name | Link | 
 | --------------- | --------------- |
@@ -17,7 +20,7 @@
 
 
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 
 | File Name | Link | 
@@ -40,4 +43,24 @@
                                             
 
 
+## Code 301 - Intermediate Software Development
 
+
+
+| File Name | Link | 
+| --------------- | --------------- |
+| Read01 | [Introductory HTML and JavaScript](https://issasalman.github.io/reading-notes/201/read01) | 
+| Read02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://issasalman.github.io/reading-notes/201/read02) | 
+| Read03 | [HTML Lists, CSS Boxes, JS Control Flow](https://issasalman.github.io/reading-notes/201/read03) |
+| Read04 | [HTML Links, CSS Layout, JS Functions](https://issasalman.github.io/reading-notes/201/read04) | 
+| Read05 | [HTML Images; CSS Color & Text](https://issasalman.github.io/reading-notes/201/read05) | 
+| Read06 | [JS Object Literals; The DOM	](https://issasalman.github.io/reading-notes/201/read06) |
+| Read07 | [HTML Tables; JS Constructor Functions	](https://issasalman.github.io/reading-notes/201/read07) | 
+| Read08 |[More CSS Layout](https://issasalman.github.io/reading-notes/201/read08) |
+| Read09 | [Forms and Events](https://issasalman.github.io/reading-notes/201/read09) | 
+| Read10 | [JS Debugging	](https://issasalman.github.io/reading-notes/201/read10) |
+| Read11 | [Assorted Topics	](https://issasalman.github.io/reading-notes/201/read11) | 
+| Read12 | [Docs for the HTML  Element & Chart.js](https://issasalman.github.io/reading-notes/201/read12) |
+| Read13 | [Local Storage	](https://issasalman.github.io/reading-notes/201/read13) |
+| Read14a | [CSS Transforms, Transitions, and Animations	](https://issasalman.github.io/reading-notes/201/read14a) | 
+| Read14b|[What Google Learned About Teams](https://issasalman.github.io/reading-notes/201/read14b) |
