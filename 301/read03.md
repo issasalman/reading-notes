@@ -29,21 +29,21 @@
 * Adding to state in React
 * Combining objects
 * Converting NodeList to an array
-```
- Give an example of using the spread operator to combine two arrays
-const arr1 = [1,2,3] 
+
+ ### Give an example of using the spread operator to combine two arrays
+`const arr1 = [1,2,3] 
 const arr2 = [4,5,6]
 const arr3 = [...arr1, ...arr2] //arr3 ==> [1,2,3,4,5,6]`
 
 
-Give an example of using the spread operator to add a new item to an array.
-
+### Give an example of using the spread operator to add a new item to an array.
+`
 let numberStore = [0, 1, 2];
 let newNumber = 12;
 numberStore = [...numberStore, newNumber];`
 
-Give an example of using the spread operator to combine two objects into one. 
-
+### Give an example of using the spread operator to combine two objects into one. 
+`
 var a = {
   1: {
     687: {
@@ -61,8 +61,8 @@ var b = {
 var c = {
   ...a,
   ...b
-}
-```
+}`
+
 
 
 ## In the video, what is the first step that the developer does to pass functions between components?
