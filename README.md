@@ -63,4 +63,5 @@
 | Read12 | [CRUD](https://issasalman.github.io/reading-notes/301/read12) |
 | Read13 | [Diversity & Inclusion in the Tech Industry](https://issasalman.github.io/reading-notes/301/read13) |
 | Read14 | [Authentication	](https://issasalman.github.io/reading-notes/301/read14) | 
+| Read14b | [Project Ideas	](https://issasalman.github.io/reading-notes/301/read14b) | 
 | Read15|[Project Kickoff](https://issasalman.github.io/reading-notes/301/read15) |
