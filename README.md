@@ -1,10 +1,11 @@
-# Who i am
-### Hello, I'm Issa Salman mechatronics engineer I have been working as a site engineer in the solar energy field from there I decided to improve my coding skills since I believe that future technology is all about being professional coder to walk side by side with it
+# Who I Am!
+### Hello, I'm Issa Salman a Mechatronics Engineer I have been working as a site engineer in the solar energy field from there I decided to improve my coding skills since I believe that future technology is all about being professional coder to walk side by side with it
 
 
 
 # Reading Notes
-## Table of contents 
+## Website description :=
+This Repo was created to summarize every topic  I will take in this course From 102 level to 401 level.
 ## Code 102 - Intro to Software Development
 
 | File Name | Link | 
