@@ -75,12 +75,10 @@ This Repo was created to summarize every topic  I will take in this course From 
 
 | File Name | Link | 
 | --------------- | --------------- |
-| Read01 | [ Pain and Suffering
-Beginners Guide to Big O](https://issasalman.github.io/reading-notes/401/read01) | 
+| Read01 | [ Pain and Suffering Beginners Guide to Big O ](https://issasalman.github.io/reading-notes/401/read01) | 
 | Read02 | [Testing and Modules](https://issasalman.github.io/reading-notes/401/read02) | 
 | Read03 | [FileIO & Exceptions](https://issasalman.github.io/reading-notes/401/read03) |
-| Read04 | [Classes and Objects
-Thinking Recursively](https://issasalman.github.io/reading-notes/401/read04) | 
+| Read04 | [Classes and Objects Thinking Recursively](https://issasalman.github.io/reading-notes/401/read04) | 
 | Read05 | [Linked Lists](https://issasalman.github.io/reading-notes/401/read05) | 
 | Read06 | [Game of Greed 1	](https://issasalman.github.io/reading-notes/401/read06) |
 | Read07 | [Game of Greed 2	](https://issasalman.github.io/reading-notes/401/read07) | 
