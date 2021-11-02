@@ -5,7 +5,7 @@ The programmers talking about two things: refactoring and unit tests, In here we
 In Summary. “Unit testing” is writing many small tests that each test one very simple function or object behavior. TDD is a thinking process that results in unit tests, and “thinking in tests” tends to result in more fine-grained and comprehensive testing, and an easier-to-extend software design.
 
 
-TDD is a software development technique that melds program design, implementation, and testing in a series of micro-iterations that focus on simplicity and feedback. Programmer tests are created using a unit testing framework and are 100% automated.
+TDD is a test driven development that melds program design, implementation, and testing in a series of micro-iterations that focus on simplicity and feedback. Programmer tests are created using a unit testing framework and are 100% automated.
 
 
 ## The Cycle
