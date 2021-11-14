@@ -85,14 +85,15 @@ This Repo was created to summarize every topic  I will take in this course From 
 | Read08 | [Game of Greed 3](https://issasalman.github.io/reading-notes/401/read08) |
 | Read09 | [Game of Greed 4](https://issasalman.github.io/reading-notes/401/read09) | 
 | Read10 | [ Stacks & Queues	](https://issasalman.github.io/reading-notes/401/read10) | 
-| Read11 | [Pandas in 10](https://issasalman.github.io/reading-notes/401/read11) |
-| Read12 | [Linear Regressions](https://issasalman.github.io/reading-notes/401/read12) |
-| Read13 | [Data Visualization	](https://issasalman.github.io/reading-notes/401/read13) | 
-| Read14 | [Implementation: Trees	](https://issasalman.github.io/reading-notes/401/read14) | 
-| Read15 | [ Machine Learning Intro](https://issasalman.github.io/reading-notes/401/read15) |
-| Read16 | [Web Scraping](https://issasalman.github.io/reading-notes/401/read16) | 
-| Read17 | [Cryptography](https://issasalman.github.io/reading-notes/401/read17) | 
-| Read18 | [Automation](https://issasalman.github.io/reading-notes/401/read18) |
+| Read11 | [ Data Analysis](https://issasalman.github.io/reading-notes/401/read11) |
+| Read12 | [Pandas in 10](https://issasalman.github.io/reading-notes/401/read12) |
+| Read13 | [Linear Regressions](https://issasalman.github.io/reading-notes/401/read13) |
+| Read14 | [Data Visualization	](https://issasalman.github.io/reading-notes/401/read14) | 
+| Read15 | [Implementation: Trees	](https://issasalman.github.io/reading-notes/401/read15) | 
+| Read16 | [ Machine Learning Intro](https://issasalman.github.io/reading-notes/401/read16) |
+| Read17 | [Web Scraping](https://issasalman.github.io/reading-notes/401/read17) | 
+| Read18 | [Cryptography](https://issasalman.github.io/reading-notes/401/read18) | 
+| Read19 | [Automation](https://issasalman.github.io/reading-notes/401/read19) |
 | Read26 | [Intro to Django](https://issasalman.github.io/reading-notes/401/read26) | 
 | Read27 | [ Django Models](https://issasalman.github.io/reading-notes/401/read27) | 
 | Read28 | [Django CRUD and Forms	](https://issasalman.github.io/reading-notes/401/read28) |
