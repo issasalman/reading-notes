@@ -1,5 +1,5 @@
 # JupyterLab 
-JupyterLab is a next-generation web-based user interface for Project Jupyter.JupyterLab enables you to work with documents and activities such as Jupyter notebooks, text editors, terminals, and custom components in a flexible, integrated, and extensible manner
+JupyterLab is a next-generation web-based user interface for Project Jupyter.JupyterLab enables you to work with documents and activities such as Jupyter notebooks, text editors, terminals, and custom components in a flexible, integrated, and extensible manner (show the output immediatily)(tutotrial porpuses)
 ### JupyterLab provides a high level of integration between notebooks, documents, and activities:
 * Drag-and-drop to reorder notebook cells and copy them between notebooks.
 * Run code blocks interactively from text files (.py, .R, .md, .tex, etc.).
