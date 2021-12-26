@@ -108,7 +108,6 @@ This Repo was created to summarize every topic  I will take in this course From 
 | Read37 | [React 1	](https://issasalman.github.io/reading-notes/401/read37) | 
 | Read38 | [React 2](https://issasalman.github.io/reading-notes/401/read38) |
 | Read39 | [React 3](https://issasalman.github.io/reading-notes/401/read39) |
-
 | Read41 | [React 4	](https://issasalman.github.io/reading-notes/401/read41) |
 | Read42 | [ Pythonisms	](https://issasalman.github.io/reading-notes/401/read42) | 
 | Read43 | [Open-Source Software Contribution](https://issasalman.github.io/reading-notes/401/read43) |
